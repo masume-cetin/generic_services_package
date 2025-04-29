@@ -9,9 +9,9 @@
     },
     {
       "name": "bloc",
-      "rootUri": "file:///Users/masumecetin/.pub-cache/hosted/pub.dev/bloc-8.1.4",
+      "rootUri": "file:///Users/masumecetin/.pub-cache/hosted/pub.dev/bloc-9.0.0",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "2.14"
     },
     {
       "name": "boolean_selector",
@@ -51,9 +51,9 @@
     },
     {
       "name": "flutter_bloc",
-      "rootUri": "file:///Users/masumecetin/.pub-cache/hosted/pub.dev/flutter_bloc-8.1.6",
+      "rootUri": "file:///Users/masumecetin/.pub-cache/hosted/pub.dev/flutter_bloc-9.1.0",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "2.14"
     },
     {
       "name": "flutter_lints",
@@ -212,7 +212,7 @@
       "languageVersion": "3.0"
     }
   ],
-  "generated": "2025-04-29T19:34:32.302831Z",
+  "generated": "2025-04-29T19:57:23.988185Z",
   "generator": "pub",
   "generatorVersion": "3.7.2",
   "flutterRoot": "file:///Users/masumecetin/Development/flutter",
