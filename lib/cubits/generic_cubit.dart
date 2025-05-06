@@ -4,6 +4,8 @@ import 'package:generic_services_package/cubits/states/generic_states.dart';
 class ApiCubit<T> extends Cubit<ApiState<T>> {
   ApiCubit() : super(ApiInitial());
 
+  void reset() => emit(ApiInitial());
+
   Future<void> request(Future<T> Function() apiCall) async {
     emit(ApiLoading());
     try {
